@@ -1,6 +1,5 @@
 ## Table of contents
 
-- [General info](#general-info)
 - [Technologies](#technologies)
 - [Tools](#tools)
 - [Testing](#testing)
