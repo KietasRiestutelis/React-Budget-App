@@ -1,0 +1,15 @@
+.Form-body {
+  max-width: 70%;
+  padding: 1em;
+  margin: 0 auto;
+}
+
+.Form-body-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.Form-btn {
+  padding: 0.5em 6em;
+}
