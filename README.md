@@ -9,9 +9,6 @@
 - [Link](#link)
 - [Licence](#licence)
 
-## General info
-
-We currently working on a project which involves developing a budgeting app with a team from the Vocational school.
 
 ## Technologies
 
